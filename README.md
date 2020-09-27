@@ -1,1 +1,1 @@
-# San-Thornen-KIT-Full-Stack-Bootcamp-Backend-DB
+# San-Thornen-FullStack-Bootcamp-Backend-DB
